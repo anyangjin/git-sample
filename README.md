@@ -6,6 +6,7 @@
 <br>git add . or git add 파일명
 <br>git push origin main
 
+<p>가져오기 </p>
 <br> git pull orgin main 
 
 
