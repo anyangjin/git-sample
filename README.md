@@ -6,6 +6,9 @@
 <br>git add . or git add 파일명
 <br>git push origin main
 
+<br> git pull orgin main 
+
+
 <p>깃허브에서 내려받기</p>
 <br>git clone 레파지토리 주소
 
