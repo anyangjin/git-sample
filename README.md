@@ -1,7 +1,7 @@
 # git-sample 
 <p>생성,수정 파일을 새로운 git 레파지토리에 업로드 할 경우</p>
 <br>git init
-<br>git remote add origin
+<br>git remote add origin 레파지토리 주소
 <br>git branch -M main
 <br>git add . or git add 파일명
 <br>git push origin main
